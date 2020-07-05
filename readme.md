@@ -5,7 +5,7 @@
 
 Olá!👋
 
-Sou desenvolvedor Full-stack PHP trabalhando em Belo Horizonte, MG.
+Sou desenvolvedor Full-stack trabalhando com PHP, Node.js e React.js em Belo Horizonte, MG.
 
 * ⚙️ Techs: `PHP`, `Laravel`, `Node.js`, `React.js`
 * 🌍 Website: https://matheus.sgomes.dev
