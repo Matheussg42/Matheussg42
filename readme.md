@@ -12,3 +12,4 @@
 - **💻 Github: [@Matheussg42](https://github.com/Matheussg42)**
 - **📝 LinkedIn: [@matheussg](https://linkedin.com/in/matheussg)**
 - **🌐 Twitter: [@matheussg42](https://twitter.com/matheussg42)**
+- **📝 Medium: [@matheussg](https://medium.com/@matheussg)**
