@@ -13,8 +13,6 @@
 - **🌐 Twitter: [@matheussg42](https://twitter.com/matheussg42)**
 - **📝 Medium: [@matheussg](https://medium.com/@matheussg)**
 
-#### Sou desenvolvedor Full-stack trabalhando com PHP, Node.js e React.js em Belo Horizonte, MG.
-
 <hr>
 
 #### Sobre o meu GitHub eu possuo no momento 15 projetos públicos nas seguintes linguagens:
@@ -37,4 +35,4 @@
 
 <br>
 
-Atualizado no dia 13/09/2020 21:16:50
+Atualizado no dia 13/09/2020 21:23:50
