@@ -17,7 +17,7 @@
 
 <hr>
 
-#### Sobre o meu GitHub eu possuo no momento 15 projetos publicos nas seguintes linguagens:
+#### Sobre o meu GitHub eu possuo no momento 15 projetos públicos nas seguintes linguagens:
    
 <br>
 
@@ -37,4 +37,4 @@
 
 <br>
 
-Atualizado no dia 13/09/2020 21:06:17
+Atualizado no dia 13/09/2020 21:13:26
