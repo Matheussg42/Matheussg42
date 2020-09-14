@@ -15,24 +15,24 @@
 
 <hr>
 
-#### Sobre o meu GitHub eu possuo no momento 15 projetos públicos nas seguintes linguagens:
+#### Sobre o meu GitHub eu possuo no momento 16 projetos públicos nas seguintes linguagens:
    
 <br>
 
-> **TypeScript -> 6.66%**
+> **TypeScript -> 6.25%**
 
-> **PHP -> 39.96%**
+> **PHP -> 43.75%**
 
-> **HTML -> 6.66%**
+> **HTML -> 6.25%**
 
-> **Java -> 6.66%**
+> **Java -> 6.25%**
 
-> **Markdown -> 6.66%**
+> **Markdown -> 6.25%**
 
-> **JavaScript -> 33.3%**
+> **JavaScript -> 31.25%**
 
 
 
 <br>
 
-Atualizado no dia 13/09/2020 21:23:50
+Atualizado no dia 13/09/2020 21:39:52
