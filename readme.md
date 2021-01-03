@@ -16,6 +16,9 @@
 <hr>
 
 #### Sobre o meu GitHub eu possuo no momento 17 projetos públicos nas seguintes linguagens:
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matheussg42&theme=dracula&show_icons=true)
+
    
 <br>
 
