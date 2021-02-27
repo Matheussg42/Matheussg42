@@ -20,24 +20,3 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matheussg42&theme=dracula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussg42&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-   
-<br>
-
-> **TypeScript -> 5.88%**
-
-> **PHP -> 41.16%**
-
-> **HTML -> 5.88%**
-
-> **Java -> 5.88%**
-
-> **Markdown -> 11.76%**
-
-> **JavaScript -> 29.4%**
-
-
-
-<br>
-
-Atualizado no dia 09/10/2020 23:38:35
