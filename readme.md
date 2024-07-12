@@ -1,8 +1,8 @@
 👤 **Matheus S. Gomes** 
 
-### Olá!👋
+### Hey!👋
 
-#### Sou desenvolvedor Full-stack trabalhando com PHP, Node.js e React.js em Belo Horizonte, MG.
+#### I'm a software engineer working with PHP, Laravel, Node.js and React.js
 
 - **⚙️ Techs: `PHP`, `Laravel`, `Node.js`, `React.js`**
 - **💻 Github: [@Matheussg42](https://github.com/Matheussg42)**
